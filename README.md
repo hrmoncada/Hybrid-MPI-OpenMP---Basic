@@ -22,8 +22,8 @@ A hybrid **MPI + OpenMP** implementation of an application might be beneficial b
 <!-- Comments -->
 ## Rules
 Here are the rules for (or lack thereof):
-   1. Push changes directly to head of https://github.com/hrmoncada/Hybrid-MPI-OpenMP---Basic
-   2. No pull requests or reviews are needed, unless you would like one. This means that personal forks of /Hybrid-MPI-OpenMP---Basic are not needed.
+   1. Push changes directly to head of https://github.com/hrmoncada/Hybrid-MPI-OpenMP-Basic
+   2. No pull requests or reviews are needed, unless you would like one. This means that personal forks of /Hybrid-MPI-OpenMP-Basic are not needed.
    3. Only restriction is to not overwrite files others have uploaded, without asking them.
    4. Scripts are not required to work in any particular way. The purpose is for the convenience of sharing scripts of any kind. Scripts do not come with any guarantees.
    5. Files may include everything, such as source code, source binary, figures and grapghics.
