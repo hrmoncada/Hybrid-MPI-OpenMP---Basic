@@ -5,9 +5,9 @@ OpenMP is an API for shared-memory programming that includes compiler directives
 
 A hybrid MPI + OpenMP implementation of an application might be beneficial because it reduces the memory requirements of an application, and improves its performance.
 
-    -Introducing MPI into OpenMP applications can help scale across multiple Symmetric multiprocessing (SMP) nodes.
-    -Introducing OpenMP into MPI applications can help make more efficient use of the shared memory on Symmetric multiprocessing (SMP) nodes, thus mitigating the need for explicit intra-node communication.
-    -Introducing MPI and OpenMP during the design/coding of a new application can help maximize efficiency, performance, and scaling.
+    *Introducing MPI into OpenMP applications can help scale across multiple Symmetric multiprocessing (SMP) nodes.
+    *Introducing OpenMP into MPI applications can help make more efficient use of the shared memory on Symmetric multiprocessing (SMP) nodes, thus mitigating the need for explicit intra-node communication.
+    *Introducing MPI and OpenMP during the design/coding of a new application can help maximize efficiency, performance, and scaling.
 
 ## Table of Contents
 - [LaTeX-Presentation](#LaTeX-Presentation)
