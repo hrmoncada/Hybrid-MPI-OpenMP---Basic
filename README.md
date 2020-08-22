@@ -8,8 +8,6 @@ A hybrid **MPI + OpenMP** implementation of an application might be beneficial b
 * Introducing OpenMP into MPI applications can help make more efficient use of the shared memory on Symmetric multiprocessing (SMP) nodes, thus mitigating the need for explicit intra-node communication.
 * Introducing MPI and OpenMP during the design/coding of a new application can help maximize efficiency, performance, and scaling.
 
-<!* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth) --->
-
 ## Table of Contents
 - [LaTeX-Presentation](#LaTeX-Presentation)
 - [Code](#Code)
